@@ -6,11 +6,11 @@ Este repositório é um trabalho acadêmico desenvolvido em Java com a finalidad
 
 # Screenshot
 
-<img src="img/tela-login.png" alt="Título da Foto" style="zoom:75%;" />
+<img src="img/tela-login.png" alt="Tela Login" style="zoom:75%;" />
 
-<img src="img/tela-inicio.png" alt="Título da Foto" style="zoom:75%;" />
+<img src="img/tela-inicio.png" alt="Bem Vindo" style="zoom:50%;" />
 
-![Título da Foto](img/tela-gerencia.png)
+<img src="img/tela-gerencia.png" alt="Gerenciamento Clínica" style="zoom:50%;" />
 
 # Licença
 
